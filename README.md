@@ -5,7 +5,7 @@ AI를 활용해 개발 기술 학습자료와 제작 기준서를 설계하고, 
 
 ## 📂 Git&GitHub
 
-### 🤖 [AI Instruction](Git&GitHub/AI%20Instruction)
+### 🤖 [AI Instruction](Git&GitHub/AI_Instruction)
 AI에게 학습자료 제작 기준과 요구사항을 학습시켜 교재를 생성·개정하기 위한 제작 기준서입니다.
 
 ### 📖 [Guide](Git&GitHub/Guide)
